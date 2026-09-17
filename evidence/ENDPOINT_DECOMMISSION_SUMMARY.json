@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "timestamp_utc": "2026-09-17T06:48:10.419247+00:00",
+  "authorization": "explicitly_provided",
+  "subscription_id": "ea37ca8e-2f20-4af6-9e71-eb48863c5f80",
+  "resource_group": "rg-final-enterprise-cloud-ml",
+  "workspace": "mlw-final-enterprise-cloud-ml",
+  "endpoint": "level8-bank-endpoint-r3",
+  "contained_deployment": "production-v2",
+  "deletion_exit_code": 0,
+  "endpoint_show_exit_code_after_deletion": 3,
+  "show_confirms_absence": true,
+  "list_confirms_absence": true,
+  "endpoint_deleted": true,
+  "deployment_removed": true,
+  "managed_compute_removed": true,
+  "registered_model": "Level_8_Production_Classifier:2",
+  "registered_model_preserved": true,
+  "workspace_preserved": true,
+  "resource_group_preserved": true,
+  "recovery_requirement": "redeployment_required",
+  "source_certificate_sha256": "0cdc1aeec3ca5506af297c2bff8dd2b9d81960dbd1d93f56b43e58c2b27038dc"
+}

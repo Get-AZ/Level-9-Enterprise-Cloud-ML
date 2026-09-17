@@ -1,0 +1,29 @@
+{
+  "status": "PASS_WITH_MONITORING_LIMITATION",
+  "region": "westus2",
+  "resource_group": "rg-final-enterprise-cloud-ml",
+  "workspace": "mlw-final-enterprise-cloud-ml",
+  "endpoint": "level8-bank-endpoint-r3",
+  "deployment": "production-v2",
+  "model_name": "Level_8_Production_Classifier",
+  "model_version": 2,
+  "instance_type": "Standard_D2as_v4",
+  "instance_count": 1,
+  "traffic_percent": 100,
+  "local_prediction": [
+    0
+  ],
+  "azure_prediction": [
+    0
+  ],
+  "prediction_agreement": true,
+  "http_score_200": true,
+  "application_insights_enabled": false,
+  "input_output_collection_operational": false,
+  "training_performed_during_deployment": false,
+  "model_modified_during_deployment": false,
+  "dataset_modified_during_deployment": false
+  ,
+  "evidence_scope": "historical_live_endpoint_certification",
+  "current_endpoint_state": "deleted_after_certification"
+}
