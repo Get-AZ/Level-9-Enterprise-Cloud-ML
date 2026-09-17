@@ -1,0 +1,9 @@
+{
+  "package": "Level 9 Enterprise Cloud ML GitHub Publication Package",
+  "owner": "Get-AZ",
+  "publication_status": "prepared_not_published",
+  "file_count": 15,
+  "certified_status": "PASS_WITH_MONITORING_LIMITATION",
+  "current_cloud_state": "ENDPOINT_DELETED",
+  "decommission_status": "PASS"
+}
