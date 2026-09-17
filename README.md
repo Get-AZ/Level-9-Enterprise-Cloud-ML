@@ -52,4 +52,4 @@ Azure Machine Learning, managed online endpoints, Azure CLI ML extension, MLflow
 
 ## Publication status
 
-This directory is a GitHub-ready package for the `Get-AZ` account. Its presence does not claim that a remote repository has already been created or pushed.
+Published under the `Get-AZ` account at `https://github.com/Get-AZ/Level-9-Enterprise-Cloud-ML`. The public repository contains the governed documentation and evidence boundary described above; it excludes credentials, raw data, model binaries, and private audit logs.
